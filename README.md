@@ -1,5 +1,5 @@
 # Ligo AI Chain
 
-Official golang implementation of the Ligo AI protocol.
+[Testnet]Official golang implementation of the Ligo AI protocol.
 
 
