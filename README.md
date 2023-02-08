@@ -1,3 +1,3 @@
-# Ligo AI Client
+# Ligo AI Chain
 
 
