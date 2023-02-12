@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
 	"github.com/ligo-libs/crypto-go"
 	"github.com/ligo-libs/db-go"
 	"github.com/ligo-libs/wire-go"

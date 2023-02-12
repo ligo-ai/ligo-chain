@@ -9,9 +9,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//event"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/event"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 type Msg struct {

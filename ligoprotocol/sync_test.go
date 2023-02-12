@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/ligo-ai/ligo-chain/ligoprotocol/downloader"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 )
 
 func TestFastSyncDisabling(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/ligo-ai/ligo-chain/chain/consensus"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 
 	. "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/wire-go"

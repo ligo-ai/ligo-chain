@@ -25,7 +25,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 /*

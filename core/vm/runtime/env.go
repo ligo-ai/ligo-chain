@@ -17,9 +17,9 @@
 package runtime
 
 import (
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/vm"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/vm"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

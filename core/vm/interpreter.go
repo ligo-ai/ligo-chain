@@ -21,7 +21,7 @@ import (
 	"sync/atomic"
 
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 // Config are the configuration options for the Interpreter

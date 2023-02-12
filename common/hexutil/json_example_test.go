@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 )
 
 type MyType [5]byte

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 // Memory implements a simple memory model for the ethereum virtual machine.

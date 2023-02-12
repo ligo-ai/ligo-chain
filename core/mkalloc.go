@@ -34,8 +34,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 type allocItem struct{ Addr, Balance *big.Int }

@@ -19,8 +19,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 // calculates the memory size required for a step

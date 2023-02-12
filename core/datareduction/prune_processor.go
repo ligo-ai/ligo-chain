@@ -7,14 +7,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//trie"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/trie"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 var (

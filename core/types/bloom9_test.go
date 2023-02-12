@@ -54,7 +54,7 @@ func TestBloom(t *testing.T) {
 import (
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/state"
+	"github.com/ligo-ai/ligo-chain/core/state"
 )
 
 func TestBloom9(t *testing.T) {

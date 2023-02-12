@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/ligo-ai/ligo-chain/ligodb/memorydb"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func TestDatabaseMetarootFetch(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 )
 
 func TestEncodingCycle(t *testing.T) {

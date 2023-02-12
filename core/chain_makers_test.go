@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func ExampleGenerateChain() {

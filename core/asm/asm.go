@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

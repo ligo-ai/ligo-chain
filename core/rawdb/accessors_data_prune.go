@@ -3,9 +3,9 @@ package rawdb
 import (
 	"encoding/binary"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // ReadDataPruneTrieRootHash retrieves the root hash of a data prune process trie

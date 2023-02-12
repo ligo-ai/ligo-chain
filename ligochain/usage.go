@@ -23,7 +23,7 @@ import (
 	"sort"
 
 	"github.com/ligo-ai/ligo-chain/internal/debug"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -9,10 +9,10 @@ import (
 	"runtime"
 
 	colorable "github.com/mattn/go-colorable"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//log/term"
-	"github.com/ligo-ai/ligo-chain//metrics"
-	"github.com/ligo-ai/ligo-chain//metrics/exp"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/log/term"
+	"github.com/ligo-ai/ligo-chain/metrics"
+	"github.com/ligo-ai/ligo-chain/metrics/exp"
 	"gopkg.in/urfave/cli.v1"
 )
 

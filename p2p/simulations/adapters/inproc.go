@@ -23,12 +23,12 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 // SimAdapter is a NodeAdapter which creates in-memory simulation nodes and

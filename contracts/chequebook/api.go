@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 const Version = "1.0"

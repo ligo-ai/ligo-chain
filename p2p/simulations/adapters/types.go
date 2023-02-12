@@ -25,11 +25,11 @@ import (
 	"os"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 // Node represents a node in a simulation network which is created by a

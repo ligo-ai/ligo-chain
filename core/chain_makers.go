@@ -20,13 +20,13 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//consensus"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/consensus"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 	"github.com/ligo-ai/ligo-chain/ligodb"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // So we can deterministically seed different blockchains

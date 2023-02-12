@@ -8,18 +8,18 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 	"github.com/ligo-ai/ligo-chain/ligodb"
 	"github.com/ligo-ai/ligo-chain/ligoprotocol/downloader"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 var (

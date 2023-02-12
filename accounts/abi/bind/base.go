@@ -7,11 +7,11 @@ import (
 	"math/big"
 
 	"github.com/ligo-ai/ligo-chain"
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 type SignerFn func(types.Signer, common.Address, *types.Transaction) (*types.Transaction, error)

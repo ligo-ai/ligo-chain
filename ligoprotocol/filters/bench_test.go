@@ -7,14 +7,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/bloombits"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/bloombits"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/bitutil"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/bitutil"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 func BenchmarkBloomBits512(b *testing.B) {

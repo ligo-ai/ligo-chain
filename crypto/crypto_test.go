@@ -13,9 +13,9 @@ import (
 	"testing"
 
 	"github.com/btcsuite/btcutil/base58"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 var testAddrHex = "970e8128ab834e8eac17ab8e3812f010678cf791"

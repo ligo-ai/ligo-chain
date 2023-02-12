@@ -5,11 +5,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/ligoabi/abi"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/math"
 
 	"gopkg.in/urfave/cli.v1"
 
@@ -21,12 +21,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//accounts/keystore"
-	"github.com/ligo-ai/ligo-chain//consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core"
+	"github.com/ligo-ai/ligo-chain/accounts/keystore"
+	"github.com/ligo-ai/ligo-chain/consensus/tendermint/types"
+	"github.com/ligo-ai/ligo-chain/core"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/utils"
 	cmn "github.com/ligo-libs/common-go"
 	cfg "github.com/ligo-libs/config-go"
 	dbm "github.com/ligo-libs/db-go"

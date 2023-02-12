@@ -32,7 +32,7 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	"golang.org/x/net/websocket"
 )
 

@@ -6,7 +6,7 @@ import (
 	"sync"
 
 	ncTypes "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	dbm "github.com/ligo-libs/db-go"
 	"github.com/ligo-libs/wire-go"
 )

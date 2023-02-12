@@ -10,8 +10,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 type Lang int

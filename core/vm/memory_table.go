@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 func memorySha3(stack *Stack) *big.Int {

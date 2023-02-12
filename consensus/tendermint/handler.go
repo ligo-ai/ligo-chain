@@ -21,8 +21,8 @@ import (
 
 	"github.com/ligo-ai/ligo-chain/chain/consensus"
 	tdmTypes "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/params"
 )
 

@@ -4,11 +4,11 @@ import (
 	"math/big"
 
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/epoch"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type ChainReader interface {

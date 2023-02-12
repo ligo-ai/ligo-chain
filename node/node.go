@@ -10,15 +10,15 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
 
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/internal/debug"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//p2p"
+	"github.com/ligo-ai/ligo-chain/p2p"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 	flock "github.com/ligo-libs/flock-go"
 )
 

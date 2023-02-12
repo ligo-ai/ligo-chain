@@ -9,16 +9,16 @@ import (
 	"reflect"
 	"unicode"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/log"
 
 	"gopkg.in/urfave/cli.v1"
 
 	"github.com/naoina/toml"
 	ligoprotocol "github.com/ligo-ai/ligo-chain/ligoprotocol"
-	"github.com/ligo-ai/ligo-chain//node"
+	"github.com/ligo-ai/ligo-chain/node"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/utils"
 )
 
 var (

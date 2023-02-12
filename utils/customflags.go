@@ -11,7 +11,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/math"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 )
 
 type Simulation struct {

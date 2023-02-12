@@ -23,8 +23,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common/mclock"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common/mclock"
 )
 
 const (

@@ -24,7 +24,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // RLPTest is the JSON structure of a single RLP test.

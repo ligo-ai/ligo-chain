@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 func ExampleNewSubscription() {

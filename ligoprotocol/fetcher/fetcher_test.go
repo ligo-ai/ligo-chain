@@ -8,12 +8,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

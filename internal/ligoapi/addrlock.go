@@ -3,7 +3,7 @@ package ligoapi
 import (
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type AddrLocker struct {

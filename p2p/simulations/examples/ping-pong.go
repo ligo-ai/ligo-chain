@@ -25,12 +25,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//p2p/simulations"
-	"github.com/ligo-ai/ligo-chain//p2p/simulations/adapters"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/simulations"
+	"github.com/ligo-ai/ligo-chain/p2p/simulations/adapters"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 )
 

@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/ligo-ai/ligo-chain//crypto"
+	ethcrypto "github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

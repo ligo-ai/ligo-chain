@@ -1,7 +1,7 @@
 package fetcher
 
 import (
-	"github.com/ligo-ai/ligo-chain//metrics"
+	"github.com/ligo-ai/ligo-chain/metrics"
 )
 
 var (

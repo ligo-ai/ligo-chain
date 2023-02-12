@@ -12,11 +12,11 @@ import (
 
 	"bytes"
 
-	"github.com/ligo-ai/ligo-chain//trie"
+	"github.com/ligo-ai/ligo-chain/trie"
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	"github.com/ligo-ai/ligo-chain/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

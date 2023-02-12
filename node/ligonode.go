@@ -3,8 +3,8 @@ package node
 import (
 	"reflect"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 )
 

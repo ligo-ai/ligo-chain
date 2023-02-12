@@ -7,10 +7,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/ligo-ai/ligo-chain//consensus/tendermint/consensus"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/consensus/tendermint/consensus"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/internal/debug"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

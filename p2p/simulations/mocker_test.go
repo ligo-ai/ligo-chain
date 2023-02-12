@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 )
 
 func TestMocker(t *testing.T) {

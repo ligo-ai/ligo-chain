@@ -31,9 +31,9 @@ import (
 
 	"gopkg.in/check.v1"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // Tests that updating a state trie does not leak any database writes prior to

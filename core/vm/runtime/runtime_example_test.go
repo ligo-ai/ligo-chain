@@ -19,8 +19,8 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//core/vm/runtime"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/vm/runtime"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func ExampleExecute() {

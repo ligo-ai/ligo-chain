@@ -3,9 +3,9 @@ package core
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//consensus"
-	ncTypes "github.com/ligo-ai/ligo-chain//consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/consensus"
+	ncTypes "github.com/ligo-ai/ligo-chain/consensus/tendermint/types"
+	"github.com/ligo-ai/ligo-chain/core/types"
 )
 
 func ApplyOp(op types.PendingOp, bc *BlockChain, cch CrossChainHelper) error {

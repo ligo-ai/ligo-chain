@@ -7,7 +7,7 @@ import (
 	"math/rand"
 	"reflect"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 )
 
 const (

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func TestUpdateCandidateSet(t *testing.T) {

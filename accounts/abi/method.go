@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 type Method struct {

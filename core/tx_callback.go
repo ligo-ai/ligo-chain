@@ -5,12 +5,12 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//consensus/tendermint/epoch"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/consensus/tendermint/epoch"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
 	"github.com/ligo-ai/ligo-chain/ligoclient"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 	"github.com/ligo-libs/crypto-go"
 	dbm "github.com/ligo-libs/db-go"
 )

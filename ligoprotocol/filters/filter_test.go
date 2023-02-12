@@ -7,13 +7,13 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/ligodb"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 func makeReceipt(addr common.Address) *types.Receipt {

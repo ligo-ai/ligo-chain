@@ -6,7 +6,7 @@ import (
 
 	"github.com/ligo-ai/ligo-chain"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 type PublicDownloaderAPI struct {

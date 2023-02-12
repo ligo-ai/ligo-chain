@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//p2p"
+	"github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/p2p"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 )
 

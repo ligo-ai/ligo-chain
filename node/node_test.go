@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//p2p"
+	"github.com/ligo-ai/ligo-chain/p2p"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

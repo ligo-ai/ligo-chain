@@ -1,7 +1,7 @@
 package types
 
 import (
-	ligoTypes "github.com/ligo-ai/ligo-chain//core/types"
+	ligoTypes "github.com/ligo-ai/ligo-chain/core/types"
 	. "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/events-go"
 	"github.com/ligo-libs/wire-go"

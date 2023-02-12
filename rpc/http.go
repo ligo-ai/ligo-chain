@@ -31,7 +31,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/rs/cors"
 )
 

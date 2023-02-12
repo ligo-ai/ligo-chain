@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 )
 
 type TestPeer interface {

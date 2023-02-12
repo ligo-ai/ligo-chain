@@ -8,10 +8,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/ligo-ai/ligo-chain//node"
+	"github.com/ligo-ai/ligo-chain/node"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//console"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/console"
+	"github.com/ligo-ai/ligo-chain/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

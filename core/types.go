@@ -17,9 +17,9 @@
 package core
 
 import (
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

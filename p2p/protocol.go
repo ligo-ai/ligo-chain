@@ -3,7 +3,7 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 )
 
 type Protocol struct {

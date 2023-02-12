@@ -25,11 +25,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ligo-ai/ligo-chain//core/vm"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/core/vm"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	"github.com/ligo-ai/ligo-chain/crypto"
 	duktape "gopkg.in/olebedev/go-duktape.v3"
 )
 

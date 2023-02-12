@@ -21,10 +21,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 	checker "gopkg.in/check.v1"
 )
 

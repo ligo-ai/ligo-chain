@@ -20,8 +20,8 @@ package rawdb
 import (
 	"encoding/binary"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//metrics"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/metrics"
 )
 
 // The fields below define the low level database schema prefixing.

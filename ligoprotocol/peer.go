@@ -7,13 +7,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//consensus"
+	"github.com/ligo-ai/ligo-chain/consensus"
 	"github.com/ligo-libs/wire-go"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 	"github.com/ligo-libs/set-go"
 )
 

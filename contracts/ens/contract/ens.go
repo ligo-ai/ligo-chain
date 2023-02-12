@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	ligochain "github.com/ligo-ai/ligo-chain"
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//accounts/abi/bind"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/accounts/abi/bind"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 // ENSABI is the input ABI used to generate the binding from.

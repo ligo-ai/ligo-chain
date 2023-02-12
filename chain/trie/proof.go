@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 func (t *Trie) Prove(key []byte, fromLevel uint, proofDb ligodb.Writer) error {

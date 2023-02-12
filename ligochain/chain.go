@@ -3,11 +3,11 @@ package main
 import (
 	"path/filepath"
 
-	"github.com/ligo-ai/ligo-chain//accounts/keystore"
-	tdmTypes "github.com/ligo-ai/ligo-chain//consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//log"
-	ligonode "github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/accounts/keystore"
+	tdmTypes "github.com/ligo-ai/ligo-chain/consensus/tendermint/types"
+	"github.com/ligo-ai/ligo-chain/log"
+	ligonode "github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/utils"
 	cfg "github.com/ligo-libs/config-go"
 	"gopkg.in/urfave/cli.v1"
 )

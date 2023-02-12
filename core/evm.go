@@ -19,10 +19,10 @@ package core
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//consensus"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//core/vm"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/consensus"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/core/vm"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // ChainContext supports retrieving headers and consensus parameters from the

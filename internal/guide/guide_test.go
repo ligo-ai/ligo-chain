@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//accounts/keystore"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/accounts/keystore"
+	"github.com/ligo-ai/ligo-chain/core/types"
 )
 
 func TestAccountManagement(t *testing.T) {

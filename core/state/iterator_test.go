@@ -22,7 +22,7 @@ import (
 
 	"github.com/ligo-ai/ligo-chain/ligodb/memorydb"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

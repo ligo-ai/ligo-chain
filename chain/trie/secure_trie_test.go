@@ -23,8 +23,8 @@ import (
 	"testing"
 
 	"github.com/ligo-ai/ligo-chain/ligodb/memorydb"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func newEmptySecure() *SecureTrie {

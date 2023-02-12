@@ -18,9 +18,9 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 func init() {

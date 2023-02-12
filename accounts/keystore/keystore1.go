@@ -1,7 +1,7 @@
 package keystore
 
 import (
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func KeyFileName(keyAddr common.Address) string {

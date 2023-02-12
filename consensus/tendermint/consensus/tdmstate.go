@@ -7,7 +7,7 @@ import (
 	ep "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/epoch"
 	sm "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/state"
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/params"
 	cmn "github.com/ligo-libs/common-go"
 )

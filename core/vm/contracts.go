@@ -22,10 +22,10 @@ import (
 	"math/big"
 
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/math"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//crypto/bn256"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/math"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/crypto/bn256"
 	"golang.org/x/crypto/ripemd160"
 )
 

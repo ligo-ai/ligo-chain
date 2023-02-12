@@ -12,7 +12,7 @@ import (
 
 	"github.com/ligo-ai/ligo-chain/internal/jsre"
 	ligoprotocol "github.com/ligo-ai/ligo-chain/ligoprotocol"
-	"github.com/ligo-ai/ligo-chain//node"
+	"github.com/ligo-ai/ligo-chain/node"
 )
 
 const (

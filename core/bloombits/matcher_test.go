@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 const testSectionSize = 4096

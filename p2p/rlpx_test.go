@@ -15,11 +15,11 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//crypto/ecies"
-	"github.com/ligo-ai/ligo-chain//crypto/sha3"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/crypto/ecies"
+	"github.com/ligo-ai/ligo-chain/crypto/sha3"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 func TestSharedSecret(t *testing.T) {

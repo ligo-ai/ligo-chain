@@ -7,12 +7,12 @@ import (
 	"sort"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 
 	"github.com/ligo-ai/ligo-chain/internal/debug"
-	"github.com/ligo-ai/ligo-chain//console"
-	"github.com/ligo-ai/ligo-chain//metrics"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/console"
+	"github.com/ligo-ai/ligo-chain/metrics"
+	"github.com/ligo-ai/ligo-chain/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

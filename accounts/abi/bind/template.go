@@ -1,6 +1,6 @@
 package bind
 
-import "github.com/ligo-ai/ligo-chain//accounts/abi"
+import "github.com/ligo-ai/ligo-chain/accounts/abi"
 
 type tmplData struct {
 	Package   string
@@ -60,11 +60,11 @@ import (
 	"strings"
 
 	ethereum "github.com/ligo-ai/ligo-chain"
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//accounts/abi/bind"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/accounts/abi/bind"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 

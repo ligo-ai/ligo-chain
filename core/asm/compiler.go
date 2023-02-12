@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//core/vm"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/core/vm"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 // Compiler contains information about the parsed source

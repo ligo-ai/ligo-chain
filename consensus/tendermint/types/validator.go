@@ -7,8 +7,8 @@ import (
 
 	"math/big"
 
-	ligoTypes "github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
+	ligoTypes "github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
 	. "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/crypto-go"
 	"github.com/ligo-libs/wire-go"

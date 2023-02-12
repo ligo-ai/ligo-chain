@@ -8,8 +8,8 @@ import (
 	"crypto/elliptic"
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
-	"github.com/ligo-ai/ligo-chain//crypto/secp256k1"
+	"github.com/ligo-ai/ligo-chain/common/math"
+	"github.com/ligo-ai/ligo-chain/crypto/secp256k1"
 )
 
 func Ecrecover(hash, sig []byte) ([]byte, error) {

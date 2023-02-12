@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func TestMakeTopics(t *testing.T) {

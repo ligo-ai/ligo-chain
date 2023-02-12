@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

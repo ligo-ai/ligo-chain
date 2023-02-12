@@ -8,9 +8,9 @@ import (
 	"github.com/ligo-ai/ligo-chain/chain/consensus"
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/epoch"
 	tdmTypes "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	ligoCrypto "github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	ligoCrypto "github.com/ligo-ai/ligo-chain/crypto"
 	"github.com/ligo-libs/crypto-go"
 )
 

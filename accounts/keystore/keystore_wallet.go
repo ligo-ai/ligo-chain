@@ -4,8 +4,8 @@ import (
 	"math/big"
 
 	"github.com/ligo-ai/ligo-chain"
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/core/types"
 )
 
 type keystoreWallet struct {

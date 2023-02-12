@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//trie"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/trie"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // NodeIterator is an iterator to traverse the entire state trie post-order,

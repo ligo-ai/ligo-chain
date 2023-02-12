@@ -20,8 +20,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p/netutil"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p/netutil"
 )
 
 // ServeListener accepts connections on l, serving JSON-RPC on them.

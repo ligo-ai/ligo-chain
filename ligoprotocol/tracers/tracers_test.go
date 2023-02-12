@@ -25,15 +25,15 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 	"github.com/ligo-ai/ligo-chain/tests"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	"github.com/ligo-ai/ligo-chain//common/math"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/math"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // To generate a new callTracer test, copy paste the makeTest method below into

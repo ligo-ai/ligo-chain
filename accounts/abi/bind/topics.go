@@ -7,9 +7,9 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func makeTopics(query ...[]interface{}) ([][]common.Hash, error) {

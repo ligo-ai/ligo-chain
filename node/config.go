@@ -11,14 +11,14 @@ import (
 
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//accounts/keystore"
-	"github.com/ligo-ai/ligo-chain//accounts/usbwallet"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/accounts/keystore"
+	"github.com/ligo-ai/ligo-chain/accounts/usbwallet"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 const (

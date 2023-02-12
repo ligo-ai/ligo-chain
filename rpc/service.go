@@ -27,7 +27,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 var (

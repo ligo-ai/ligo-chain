@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/vm"
+	"github.com/ligo-ai/ligo-chain/core/vm"
 )
 
 func TestVM(t *testing.T) {

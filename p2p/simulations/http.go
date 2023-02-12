@@ -14,11 +14,11 @@ import (
 	"sync"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//p2p/simulations/adapters"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/simulations/adapters"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 	"golang.org/x/net/websocket"
 )
 

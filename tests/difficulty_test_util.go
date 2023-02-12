@@ -4,8 +4,8 @@ import (
 	"math/big"
 
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 //go:generate gencodec -type DifficultyTest -field-override difficultyTestMarshaling -out gen_difficultytest.go

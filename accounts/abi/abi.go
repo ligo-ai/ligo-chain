@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type ABI struct {

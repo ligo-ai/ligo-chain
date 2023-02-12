@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//p2p/simulations/adapters"
-	p2ptest "github.com/ligo-ai/ligo-chain//p2p/testing"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/simulations/adapters"
+	p2ptest "github.com/ligo-ai/ligo-chain/p2p/testing"
 )
 
 type hs0 struct {

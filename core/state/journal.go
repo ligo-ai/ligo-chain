@@ -19,7 +19,7 @@ package state
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type journalEntry interface {

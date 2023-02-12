@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//crypto/secp256k1"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/crypto/secp256k1"
 )
 
 const NodeIDBits = 512

@@ -6,10 +6,10 @@ package contract
 import (
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//accounts/abi/bind"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/accounts/abi/bind"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // FIFSRegistrarABI is the input ABI used to generate the binding from.

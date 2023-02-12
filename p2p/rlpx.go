@@ -20,11 +20,11 @@ import (
 	"time"
 
 	"github.com/golang/snappy"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//crypto/ecies"
-	"github.com/ligo-ai/ligo-chain//crypto/secp256k1"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/crypto/ecies"
+	"github.com/ligo-ai/ligo-chain/crypto/secp256k1"
+	"github.com/ligo-ai/ligo-chain/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

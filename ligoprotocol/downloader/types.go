@@ -3,7 +3,7 @@ package downloader
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core/types"
 )
 
 type peerDropFn func(id string)

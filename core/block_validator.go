@@ -3,9 +3,9 @@ package core
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//consensus"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/consensus"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/params"
 )
 

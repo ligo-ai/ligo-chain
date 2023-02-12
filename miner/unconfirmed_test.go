@@ -19,8 +19,8 @@ package miner
 import (
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // noopHeaderRetriever is an implementation of headerRetriever that always

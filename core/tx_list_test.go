@@ -20,8 +20,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 // Tests that transactions can be added to strict lists and list contents and

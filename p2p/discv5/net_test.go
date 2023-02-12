@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func TestNetwork_Lookup(t *testing.T) {

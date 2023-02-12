@@ -6,11 +6,11 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/internal/ligoapi"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 var maxPrice = big.NewInt(5000 * params.GWei)

@@ -8,13 +8,13 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//consensus/tendermint"
-	"github.com/ligo-ai/ligo-chain//core"
+	"github.com/ligo-ai/ligo-chain/consensus/tendermint"
+	"github.com/ligo-ai/ligo-chain/core"
 	"github.com/ligo-ai/ligo-chain/ligoprotocol/downloader"
 	"github.com/ligo-ai/ligo-chain/ligoprotocol/gasprice"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 )
 
 var DefaultConfig = Config{

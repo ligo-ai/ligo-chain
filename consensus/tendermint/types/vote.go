@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/rlp"
 	. "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/crypto-go"
 	"github.com/ligo-libs/wire-go"

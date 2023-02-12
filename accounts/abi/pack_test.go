@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func TestPack(t *testing.T) {

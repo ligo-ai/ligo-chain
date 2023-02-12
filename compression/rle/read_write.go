@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 const (

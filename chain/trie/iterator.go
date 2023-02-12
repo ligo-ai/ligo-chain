@@ -21,8 +21,8 @@ import (
 	"container/heap"
 	"errors"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 type Iterator struct {

@@ -23,11 +23,11 @@ package ens
 import (
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//accounts/abi/bind"
-	"github.com/ligo-ai/ligo-chain//contracts/ens/contract"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/accounts/abi/bind"
+	"github.com/ligo-ai/ligo-chain/contracts/ens/contract"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

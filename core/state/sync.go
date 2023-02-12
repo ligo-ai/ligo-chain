@@ -19,10 +19,10 @@ package state
 import (
 	"bytes"
 
-	"github.com/ligo-ai/ligo-chain//trie"
+	"github.com/ligo-ai/ligo-chain/trie"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // NewStateSync create a new state trie download scheduler.

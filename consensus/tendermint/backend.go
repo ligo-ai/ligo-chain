@@ -6,12 +6,12 @@ import (
 
 	"github.com/ligo-ai/ligo-chain/chain/consensus"
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core"
-	ligoTypes "github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core"
+	ligoTypes "github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/event"
 	"gopkg.in/urfave/cli.v1"
 )
 

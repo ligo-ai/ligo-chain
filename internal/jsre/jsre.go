@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/ligo-ai/ligo-chain/internal/jsre/deps"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 	"github.com/robertkrimen/otto"
 )
 

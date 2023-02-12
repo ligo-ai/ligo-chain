@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//p2p/simulations/adapters"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/simulations/adapters"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 var dialBanTimeout = 200 * time.Millisecond

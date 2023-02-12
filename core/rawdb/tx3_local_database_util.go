@@ -4,14 +4,14 @@ import (
 	"bytes"
 	"fmt"
 
-	tdmTypes "github.com/ligo-ai/ligo-chain//consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//trie"
+	tdmTypes "github.com/ligo-ai/ligo-chain/consensus/tendermint/types"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/trie"
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
 	"github.com/ligo-ai/ligo-chain/ligodb"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 var (

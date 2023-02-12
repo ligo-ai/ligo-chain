@@ -1,9 +1,9 @@
 package ligoprotocol
 
 import (
-	"github.com/ligo-ai/ligo-chain//consensus"
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//metrics"
+	"github.com/ligo-ai/ligo-chain/consensus"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/metrics"
 )
 
 var (

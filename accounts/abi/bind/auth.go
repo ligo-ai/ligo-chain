@@ -6,11 +6,11 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//accounts/keystore"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/accounts/keystore"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func NewTransactor(keyin io.Reader, passphrase string) (*TransactOpts, error) {

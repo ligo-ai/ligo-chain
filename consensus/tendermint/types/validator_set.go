@@ -7,8 +7,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
 	cmn "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/crypto-go"
 	"github.com/ligo-libs/merkle-go"

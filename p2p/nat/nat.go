@@ -9,7 +9,7 @@ import (
 	"time"
 
 	natpmp "github.com/jackpal/go-nat-pmp"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 type Interface interface {

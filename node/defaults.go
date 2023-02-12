@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//p2p/nat"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/p2p/nat"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 )
 

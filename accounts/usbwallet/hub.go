@@ -23,9 +23,9 @@ import (
 	"time"
 
 	"github.com/karalabe/hid"
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 // LedgerScheme is the protocol scheme prefixing account and wallet URLs.

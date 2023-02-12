@@ -4,13 +4,13 @@ import (
 	"crypto/ecdsa"
 	"reflect"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
 
-	"github.com/ligo-ai/ligo-chain//accounts"
+	"github.com/ligo-ai/ligo-chain/accounts"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//p2p"
+	"github.com/ligo-ai/ligo-chain/p2p"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 type ServiceContext struct {

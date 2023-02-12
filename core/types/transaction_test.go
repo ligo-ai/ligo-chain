@@ -24,12 +24,12 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // The values in those tests are from the Transaction Tests

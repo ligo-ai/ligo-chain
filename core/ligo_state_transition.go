@@ -3,8 +3,8 @@ package core
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//core/vm"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core/vm"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 func ApplyMessageEx(evm *vm.EVM, msg Message, gp *GasPool) ([]byte, uint64, *big.Int, bool, error) {

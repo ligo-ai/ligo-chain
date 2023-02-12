@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//node"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/node"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 	"gopkg.in/urfave/cli.v1"
 )

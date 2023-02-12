@@ -13,8 +13,8 @@ import (
 
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 var (

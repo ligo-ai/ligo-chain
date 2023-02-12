@@ -19,8 +19,8 @@ package trie
 import (
 	"fmt"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type SecureTrie struct {

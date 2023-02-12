@@ -20,7 +20,7 @@ import (
 	"sync"
 
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//common/compiler"
+	"github.com/ligo-ai/ligo-chain/common/compiler"
 )
 
 func makeCompilerAPIs(solcPath string) []rpc.API {

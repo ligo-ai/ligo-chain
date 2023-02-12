@@ -9,11 +9,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p/nat"
-	"github.com/ligo-ai/ligo-chain//p2p/netutil"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p/nat"
+	"github.com/ligo-ai/ligo-chain/p2p/netutil"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 const Version = 4

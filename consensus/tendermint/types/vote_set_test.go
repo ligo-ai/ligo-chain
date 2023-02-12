@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func TestLoose23MajorThreshold(t *testing.T) {

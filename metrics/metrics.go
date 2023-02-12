@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 // Enabled is checked by the constructor functions for all of the

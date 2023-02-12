@@ -5,11 +5,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//consensus"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/prque"
+	"github.com/ligo-ai/ligo-chain/consensus"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/prque"
 )
 
 const (

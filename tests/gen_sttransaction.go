@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 var _ = (*stTransactionMarshaling)(nil)

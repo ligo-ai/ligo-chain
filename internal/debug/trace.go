@@ -8,7 +8,7 @@ import (
 	"os"
 	"runtime/trace"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 func (h *HandlerT) StartGoTrace(file string) error {

@@ -40,7 +40,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var dumpEnc bool

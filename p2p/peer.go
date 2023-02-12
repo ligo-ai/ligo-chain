@@ -8,11 +8,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//common/mclock"
-	"github.com/ligo-ai/ligo-chain//event"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/common/mclock"
+	"github.com/ligo-ai/ligo-chain/event"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 const (

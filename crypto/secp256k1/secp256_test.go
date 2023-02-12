@@ -24,8 +24,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
-	"github.com/ligo-ai/ligo-chain//crypto/randentropy"
+	"github.com/ligo-ai/ligo-chain/common/math"
+	"github.com/ligo-ai/ligo-chain/crypto/randentropy"
 )
 
 const TestCount = 1000

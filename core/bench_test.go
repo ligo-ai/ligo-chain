@@ -4,10 +4,10 @@ import (
 	"crypto/ecdsa"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/math"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/math"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

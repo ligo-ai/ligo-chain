@@ -23,8 +23,8 @@ package main
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//core"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/core"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

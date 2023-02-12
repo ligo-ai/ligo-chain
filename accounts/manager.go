@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 type Manager struct {

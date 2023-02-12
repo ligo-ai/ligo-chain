@@ -35,9 +35,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//crypto/sha3"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/crypto/sha3"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

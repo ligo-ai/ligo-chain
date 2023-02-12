@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//p2p"
+	"github.com/ligo-ai/ligo-chain/p2p"
 )
 
 const (

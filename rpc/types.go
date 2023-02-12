@@ -22,7 +22,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 )
 
 // API describes the set of methods offered over the RPC interface

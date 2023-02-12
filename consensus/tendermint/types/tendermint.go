@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	ligoTypes "github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	ligoTypes "github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 	"github.com/ligo-libs/merkle-go"
 	"github.com/ligo-libs/wire-go"
 )

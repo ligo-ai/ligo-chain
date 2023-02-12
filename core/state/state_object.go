@@ -22,9 +22,9 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 var emptyCodeHash = crypto.Keccak256(nil)

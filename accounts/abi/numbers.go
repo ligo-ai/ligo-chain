@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 var (

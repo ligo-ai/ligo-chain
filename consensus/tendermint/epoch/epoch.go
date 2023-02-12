@@ -5,9 +5,9 @@ import (
 	"fmt"
 
 	ncTypes "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
 	dbm "github.com/ligo-libs/db-go"
 	"github.com/ligo-libs/wire-go"
 

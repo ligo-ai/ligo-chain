@@ -22,7 +22,7 @@ import (
 	"sync/atomic"
 
 	mapset "github.com/deckarep/golang-set"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 const MetadataApi = "rpc"

@@ -4,9 +4,9 @@ import (
 	"math/big"
 
 	"github.com/ligo-ai/ligo-chain"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 type Account struct {

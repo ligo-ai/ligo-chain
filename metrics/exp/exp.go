@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//metrics"
+	"github.com/ligo-ai/ligo-chain/metrics"
 )
 
 type exp struct {

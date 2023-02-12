@@ -19,7 +19,7 @@ package state
 import (
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type account struct {

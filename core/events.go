@@ -17,8 +17,8 @@
 package core
 
 import (
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // TxPreEvent is posted when a transaction enters the transaction pool.

@@ -3,7 +3,7 @@ package state
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // Retrieve the deposit balance from the given address or 0 if object not found

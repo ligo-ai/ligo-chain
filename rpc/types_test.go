@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 func TestBlockNumberJSONUnmarshal(t *testing.T) {

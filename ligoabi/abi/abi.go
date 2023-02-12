@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/ligo-ai/ligo-chain//accounts/abi"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/accounts/abi"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type FunctionType struct {

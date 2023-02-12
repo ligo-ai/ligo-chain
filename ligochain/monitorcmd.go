@@ -26,9 +26,9 @@ import (
 	"time"
 
 	"github.com/gizak/termui"
-	"github.com/ligo-ai/ligo-chain//node"
+	"github.com/ligo-ai/ligo-chain/node"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

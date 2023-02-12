@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common/mclock"
+	"github.com/ligo-ai/ligo-chain/common/mclock"
 )
 
 // Subscription represents a stream of events. The carrier of the events is typically a

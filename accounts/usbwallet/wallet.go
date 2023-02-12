@@ -27,10 +27,10 @@ import (
 
 	"github.com/karalabe/hid"
 	"github.com/ligo-ai/ligo-chain"
-	"github.com/ligo-ai/ligo-chain//accounts"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/accounts"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // Maximum time between wallet health checks to detect USB unplugs.

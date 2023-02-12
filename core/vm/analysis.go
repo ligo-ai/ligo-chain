@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // destinations stores one map per contract (keyed by hash of code).

@@ -20,9 +20,9 @@ import (
 	"fmt"
 
 	lru "github.com/hashicorp/golang-lru"
-	"github.com/ligo-ai/ligo-chain//trie"
+	"github.com/ligo-ai/ligo-chain/trie"
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 const (

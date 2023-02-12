@@ -7,9 +7,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 	. "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/crypto-go"
 )

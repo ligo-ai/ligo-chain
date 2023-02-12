@@ -10,11 +10,11 @@ import (
 	"github.com/ligo-ai/ligo-chain/chain/consensus"
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/epoch"
 	tdmTypes "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 	"github.com/ligo-libs/wire-go"
 )
 

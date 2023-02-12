@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

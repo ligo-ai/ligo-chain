@@ -28,9 +28,9 @@ import (
 	"strings"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//node"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/node"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
 )
 
 // DockerAdapter is a NodeAdapter which runs simulation nodes inside Docker

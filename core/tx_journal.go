@@ -21,11 +21,11 @@ import (
 	"io"
 	"os"
 
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/log"
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // errNoActiveJournal is returned if a transaction is attempted to be inserted

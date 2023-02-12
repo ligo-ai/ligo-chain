@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // precompiledTest defines the input/output pairs for precompiled contract tests.

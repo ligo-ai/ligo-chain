@@ -16,9 +16,9 @@ import (
 	"strings"
 
 	"github.com/btcsuite/btcutil/base58"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/math"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/math"
+	"github.com/ligo-ai/ligo-chain/rlp"
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/sha3"
 )

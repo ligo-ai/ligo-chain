@@ -22,8 +22,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 // Entry is implemented by known node record entry types.

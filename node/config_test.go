@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//p2p"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/p2p"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 func TestDatadirCreation(t *testing.T) {

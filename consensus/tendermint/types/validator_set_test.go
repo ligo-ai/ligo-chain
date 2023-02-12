@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//common/hexutil"
+	"github.com/ligo-ai/ligo-chain/common/hexutil"
 	"github.com/ligo-libs/crypto-go"
 	"github.com/ligo-libs/wire-go"
 )

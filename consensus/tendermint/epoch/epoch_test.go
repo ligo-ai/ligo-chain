@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 func TestEstimateEpoch(t *testing.T) {

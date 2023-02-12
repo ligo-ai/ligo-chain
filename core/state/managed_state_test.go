@@ -19,8 +19,8 @@ package state
 import (
 	"testing"
 
-	"github.com/ligo-ai/ligo-chain//core/rawdb"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/core/rawdb"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 var addr = common.BytesToAddress([]byte("test"))

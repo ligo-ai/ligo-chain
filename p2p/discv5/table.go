@@ -29,7 +29,7 @@ import (
 	"net"
 	"sort"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 const (

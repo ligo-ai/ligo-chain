@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//event"
+	"github.com/ligo-ai/ligo-chain/event"
 )
 
 // This example demonstrates how SubscriptionScope can be used to control the lifetime of

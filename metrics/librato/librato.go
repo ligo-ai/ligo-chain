@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//metrics"
+	"github.com/ligo-ai/ligo-chain/metrics"
 )
 
 // a regexp for extracting the unit from time.Duration.String

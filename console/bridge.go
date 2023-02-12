@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//accounts/usbwallet"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/accounts/usbwallet"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/ligo-ai/ligo-chain/network/rpc"
 	"github.com/robertkrimen/otto"
 )

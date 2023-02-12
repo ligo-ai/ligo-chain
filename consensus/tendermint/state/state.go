@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 
 	. "github.com/ligo-libs/common-go"
 

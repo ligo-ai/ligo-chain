@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
 	. "github.com/ligo-libs/common-go"

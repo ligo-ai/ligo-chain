@@ -8,15 +8,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//p2p/discv5"
-	"github.com/ligo-ai/ligo-chain//p2p/nat"
-	"github.com/ligo-ai/ligo-chain//p2p/netutil"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/mclock"
-	"github.com/ligo-ai/ligo-chain//event"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/discv5"
+	"github.com/ligo-ai/ligo-chain/p2p/nat"
+	"github.com/ligo-ai/ligo-chain/p2p/netutil"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/mclock"
+	"github.com/ligo-ai/ligo-chain/event"
+	"github.com/ligo-ai/ligo-chain/rlp"
 )
 
 const (

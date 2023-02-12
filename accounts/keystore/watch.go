@@ -21,7 +21,7 @@ package keystore
 import (
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 	"github.com/rjeczalik/notify"
 )
 

@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/mclock"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/mclock"
 )
 
 func TestTopicRadius(t *testing.T) {

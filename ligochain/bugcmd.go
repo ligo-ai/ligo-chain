@@ -11,7 +11,7 @@ import (
 
 	"github.com/ligo-ai/ligo-chain/params"
 
-	"github.com/ligo-ai/ligo-chain//utils"
+	"github.com/ligo-ai/ligo-chain/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

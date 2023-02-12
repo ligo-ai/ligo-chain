@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//common/bitutil"
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/common/bitutil"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

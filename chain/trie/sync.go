@@ -21,8 +21,8 @@ import (
 	"fmt"
 
 	"github.com/ligo-ai/ligo-chain/ligodb"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/prque"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/prque"
 )
 
 var ErrNotRequested = errors.New("not requested")

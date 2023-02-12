@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/log"
 )
 
 const (

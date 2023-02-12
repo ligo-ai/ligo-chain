@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 type twoOperandTest struct {

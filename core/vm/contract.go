@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 )
 
 // ContractRef is a reference to the contract's backing object

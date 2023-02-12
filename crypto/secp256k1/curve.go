@@ -36,7 +36,7 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/ligo-ai/ligo-chain//common/math"
+	"github.com/ligo-ai/ligo-chain/common/math"
 )
 
 /*

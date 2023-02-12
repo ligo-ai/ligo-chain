@@ -17,7 +17,7 @@
 package ens
 
 import (
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 )
 
 var (

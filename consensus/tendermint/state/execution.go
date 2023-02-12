@@ -7,8 +7,8 @@ import (
 	"github.com/ligo-ai/ligo-chain/chain/consensus"
 	ep "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/epoch"
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core"
-	ligoTypes "github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core"
+	ligoTypes "github.com/ligo-ai/ligo-chain/core/types"
 )
 
 func (s *State) ValidateBlock(block *types.NCBlock) error {

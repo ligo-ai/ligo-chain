@@ -25,17 +25,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//crypto"
+	"github.com/ligo-ai/ligo-chain/crypto"
 
-	"github.com/ligo-ai/ligo-chain//core/state"
-	"github.com/ligo-ai/ligo-chain//core/types"
-	"github.com/ligo-ai/ligo-chain//log"
+	"github.com/ligo-ai/ligo-chain/core/state"
+	"github.com/ligo-ai/ligo-chain/core/types"
+	"github.com/ligo-ai/ligo-chain/log"
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//common"
-	"github.com/ligo-ai/ligo-chain//common/prque"
-	"github.com/ligo-ai/ligo-chain//event"
-	"github.com/ligo-ai/ligo-chain//metrics"
+	"github.com/ligo-ai/ligo-chain/common"
+	"github.com/ligo-ai/ligo-chain/common/prque"
+	"github.com/ligo-ai/ligo-chain/event"
+	"github.com/ligo-ai/ligo-chain/metrics"
 )
 
 const (

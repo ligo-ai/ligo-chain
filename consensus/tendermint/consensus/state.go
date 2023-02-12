@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//log"
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/log"
+	"github.com/ligo-ai/ligo-chain/common"
 
 	"context"
 
@@ -22,12 +22,12 @@ import (
 	ep "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/epoch"
 	sm "github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/state"
 	"github.com/ligo-ai/ligo-chain/chain/consensus/tendermint/types"
-	"github.com/ligo-ai/ligo-chain//core"
-	ligoTypes "github.com/ligo-ai/ligo-chain//core/types"
+	"github.com/ligo-ai/ligo-chain/core"
+	ligoTypes "github.com/ligo-ai/ligo-chain/core/types"
 	ligoAbi "github.com/ligo-ai/ligo-chain/ligoabi/abi"
 	"github.com/ligo-ai/ligo-chain/params"
-	"github.com/ligo-ai/ligo-chain//crypto"
-	"github.com/ligo-ai/ligo-chain//rlp"
+	"github.com/ligo-ai/ligo-chain/crypto"
+	"github.com/ligo-ai/ligo-chain/rlp"
 	. "github.com/ligo-libs/common-go"
 	cfg "github.com/ligo-libs/config-go"
 	tmdcrypto "github.com/ligo-libs/crypto-go"

@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ligo-ai/ligo-chain//p2p/discover"
-	"github.com/ligo-ai/ligo-chain//p2p/simulations/adapters"
+	"github.com/ligo-ai/ligo-chain/p2p/discover"
+	"github.com/ligo-ai/ligo-chain/p2p/simulations/adapters"
 )
 
 func TestNetworkSimulation(t *testing.T) {

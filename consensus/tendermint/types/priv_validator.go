@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"sync"
 
-	"github.com/ligo-ai/ligo-chain//common"
+	"github.com/ligo-ai/ligo-chain/common"
 	"github.com/ligo-libs/bls-go"
 	. "github.com/ligo-libs/common-go"
 	"github.com/ligo-libs/crypto-go"
